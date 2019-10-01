@@ -1,2 +1,2 @@
-# sfg-pet-clinic - Implement Map Based Services - End
+# sfg-pet-clinic - Add Pet Clinic Index Page and Controller - Begin
 Hurtrobotic Training SFG Pet Clinic
